@@ -1,5 +1,5 @@
 ### Hi I'm Andrian
-🇺🇸 🇮🇩 I'm an English to Indonesian Translator who is passionate about technology.
+🇺🇸 🇮🇩 I am a career changer who is passionate about technology.
 
 <p>
     <img src="https://github-readme-stats.vercel.app/api?username=andriannobella&hide=contribs,prs&show_icons=true&hide_border=true&title_color=000" />
