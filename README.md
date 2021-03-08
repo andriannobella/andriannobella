@@ -1,5 +1,5 @@
 ### Hi I'm Andrian
-I am a career changer who is passionate about technology.
+This github account serves as my learning media about web development (front-end & back-end).
 
 <p>
     <img src="https://github-readme-stats.vercel.app/api?username=andriannobella&hide=contribs,prs&show_icons=true&hide_border=true&title_color=000" />
